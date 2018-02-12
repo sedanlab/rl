@@ -8,7 +8,7 @@ http://docs.python-guide.org/en/latest/writing/documentation/
 
 ### Evaluate
 0. NxN matrix to MDP
-1. EJOR paper 구현
+1. EJOR paper 구현;
 3 States
 transition probablity : overall
 
@@ -24,4 +24,4 @@ transition probablity : overall
 
 ======
 이번주에는 Agent SARSA(on-policy) Q-Learning(off-policy)
-eligibility trace ( delayed update)
+eligibility trace ( delayed update)  

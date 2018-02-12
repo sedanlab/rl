@@ -12,7 +12,7 @@ def util_2DtoMDP(matrix):
         matrix.shape == (rows, cols)
     '''
     matrix = np.asarray(matrix)
-    rows = matrix.shape[0]
+    rows = matrix.shape[0] 
     cols = matrix.shape[1]
 
     mdp = defaultdict(dict)
